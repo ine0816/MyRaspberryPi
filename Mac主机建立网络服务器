@@ -1,0 +1,8 @@
+Mac主机建立网络服务器
+1:通过在terminal终端直接运行Apache的启动命令来打开：sudo apachectl start
+  停止：sudo apachectl stop
+  重启：
+
+2:Apache服务器默认的web根目录在：/Library/WebServer/Documents 中文：/资源库/WebServer/Documents/
+  Apache的配置文件在：/etc/apache2
+  
